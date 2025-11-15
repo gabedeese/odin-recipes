@@ -1,0 +1,34 @@
+html {
+  background-color: #303030;
+  color: white;
+}
+
+.title {
+  margin-left: 20px;
+}
+
+.title,
+.header {
+  text-decoration: underline;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+.home,
+.recipe-links {
+  background-color: #1793D1;
+  font-size: 20px;
+  text-decoration: none;
+  color: inherit;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+div,
+.attr {
+  font-size: 12px;
+  color: white;
+  margin-top: 0;
+}
